@@ -22,7 +22,7 @@ DEBIX Camera 500A Module utilizes the OV5640 sensor with 5 megapixels still reso
 
 ## Specification
 | Camera 500A     |                              |
-|-----------------|------------------------------|
+|:-----------------|------------------------------|
 | Still Resolution| 5 megapixels                 |
 | Video Mode      | 2592 x 1944/15fps<br>1920 x 1080/30fps<br>1280 x 960/45fps    |
 | Sensor          | OV5640                       |
@@ -44,7 +44,7 @@ DEBIX Camera 500A Module utilizes the OV5640 sensor with 5 megapixels still reso
 | Flexible Flat Cable  | 15cm                    |
  
 | Camera Lens     |                              |
-|-----------------|------------------------------|
+|:-----------------|------------------------------|
 | Output Formats  | Raw/YCbCr4:2:2/RGB565        |
 | Lens Construction | 3P+1IR                     |
 | TV Distortion    | <1%                         |
@@ -54,7 +54,7 @@ DEBIX Camera 500A Module utilizes the OV5640 sensor with 5 megapixels still reso
 | Dynamic Range   | 68dB                         |
 | Power Supply    | Core: 1.5VDC<br>Analog: 2.8VDC<br>I/O: 3.3VDC   |
 | Power Consumption | Operating: 160mW           |
-| Temperature Range | Operating Temp.: -30℃~70℃<br>Storage Temp.: -40℃~85℃ |
+| Temperature Range | Operating Temp.: -30℃\~70℃<br>Storage Temp.: -40℃\~85℃ |
 
 ## Certificates
 <p align="left">
